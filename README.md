@@ -50,12 +50,10 @@ alembic upgrade head
     ├── models/                # Директория с моделями базы данных
     │   ├── __init__.py
     │   └── user.py
-    ├── auth_x_jwt/            # Директория для модуля аутентификации JWT
-    │   ├── __init__.py
-    │   └── auth.py
     └── utils/                 # Утилиты и вспомогательные функции
     	├── __init__.py
-    	└── hashing.py
+        ├── auth.py
+    	└── get_db.py
 
 ## 🚀 Использование
 
