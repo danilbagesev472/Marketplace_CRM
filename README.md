@@ -17,7 +17,7 @@
 Для начала работы с бэкендом убедитесь, что у вас установлен Python 3.8+. Затем клонируйте репозиторий и установите необходимые зависимости.
 
 ```bash
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/danilbagesev472/Marketplace_CRM.git
 cd yourproject/Back
 pip install -r requirements.txt
 ```
